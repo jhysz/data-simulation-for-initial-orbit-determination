@@ -30,11 +30,11 @@ The Astropy Project is a community effort to develop a common core package for A
 `conda install astropy`\
 `pip install astropy`
 
-Other libraries can be installed in case of ' ImportError ' during use
+Other libraries can be installed in case of 'ImportError' during use
 
 # Usage
 
-Run the following command to obtain two types of simulation data.
+Fisrt, you should unzip 'orekit-data.zip', then run the following command to obtain two types of simulation data.
 
 `python test.py`
 
