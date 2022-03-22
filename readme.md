@@ -45,7 +45,7 @@ Fisrt, you should unzip 'orekit-data.zip', then run the following command to obt
 
 the simulation orbit in yz plane
 
-![yz_plane.png](./yz_plane.png)
+![yz_plane.png](yz_plane.png)
 
 the simulation orbie in 3D plot
 
@@ -53,8 +53,8 @@ the simulation orbie in 3D plot
 
 elevation
 
-![elevation.png](./elevation.png)
+![elevation.png](elevation.png)
 
 azimuth
 
-![azimuth.png](./azimuth.png)
+![azimuth.png](azimuth.png)
