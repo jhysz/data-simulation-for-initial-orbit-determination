@@ -49,7 +49,7 @@ the simulation orbit in yz plane
 
 the simulation orbie in 3D plot
 
-![3d_simulation.png](attachment:3d_simulation.png)
+![3d_simulation.png](https://github.com/jhysz/data-simulation-for-initial-orbit-determination/blob/main/3d_simulation.png)
 
 elevation
 
